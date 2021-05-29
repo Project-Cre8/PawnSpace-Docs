@@ -1,0 +1,10 @@
+# What the PawnSpace is
+
+**Presently, decentralized lending products such as Maker or Aave are beginning to gain traction within the blockchain space. Most protocols in the decentralized finance \(defi\) space focus on Fungible Tokens which conform to the ERC20 standard. For example, if you have Ethereum, you can use it as collateral to withdraw a stable coin called Dai. In essence, the user will collateralize one ERC20 token in order to “borrow” a different token. However, most cases require a borrower to possess more value for use as collateral than will be borrowed. This results in over-collateralization, limiting funding possibilities.  In traditional finance, it is similar to borrowing the Japanese Yen using the US Dollar as collateral. Yet, in reality, most debt is collateralized with tangible assets \(i.e. real-estate, stocks\) instead.**   
+
+
+**Non-fungible tokens \(NFTs\) are an alternative asset class to currencies within the blockchain space. On Ethereum, most NFTs follow either the ERC721 or ERC1155 token standards. NFTs are commonly used to represent unique artwork, or as in-game items for use in a game. The potential for NFTs is to enable users to prove ownership of unique assets in a digital form. A mechanism for linking real-world objects such as real-estate and automobiles to NFTs is being actively developed.**  
+
+
+**Unfortunately, there is no fully-automated decentralized exchange \(DEX\) for the NFT market. Current trading solutions for NFTs typically involve centralized exchanges \(i.e. OpenSea\) or a project-specific decentralized exchange \(i.e. Aavegotchi\). Due to their unique and individualized nature, pricing of NFTs is as challenging as pricing of real-estate; there is currently no way to evaluate true value beyond a “bid and ask” approach. The need for a universal and unbiased DeFi NFT trading product is ever in demand. Our approach is to enable NFT collateralization in order for owners to take out loans.  Using this model as a base, additional services can be built on top, eventually leading towards an automated pricing mechanism.** 
+
