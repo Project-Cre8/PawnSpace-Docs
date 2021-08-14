@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Official PawnSpace Documentation](README.md)
 
 ## Outline
 
