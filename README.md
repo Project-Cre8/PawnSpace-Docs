@@ -10,6 +10,8 @@ _**"Don't let your NFTs stay idle in your wallet anymore. Collateralize them, an
 _
 
 ![](.gitbook/assets/banner v2.png)
+
+
 **Abstract**
 The document introduces a decentralized NFT Collateralized Protocol that enables users to borrow and lend assets such as NFTs (ERC721 compliant). It also explores and describes the theory and technical aspects of the protocol / platform and its key features that make it distinct from existing products in the market.
 
