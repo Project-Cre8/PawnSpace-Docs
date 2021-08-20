@@ -18,6 +18,7 @@
 * [The PawnSpace Protocol](what-the-pawnspace-is.md)
   * [How it works](how-the-pawnspace-works.md)
   * [Architecture](architecture.md)
+  * [Use Cases](use-cases.md)
 
 ## User Guide
 
