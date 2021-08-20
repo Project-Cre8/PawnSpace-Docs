@@ -16,8 +16,8 @@
 ---
 
 * [The PawnSpace Protocol](what-the-pawnspace-is.md)
- * [How it works](how-the-pawnspace-works.md)
- * [Architecture](architecture.md)
+  * [How it works](how-the-pawnspace-works.md)
+  * [Architecture](architecture.md)
 
 ## User Guide
 
@@ -30,7 +30,7 @@
   * [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
   * [Repay or Withdraw](repay.md)
 
-## Future Work
+## Future Research
 
 * [NFT loan derivatives](deep-dive/nft-loan-derivatives.md)
 * [Decentralized Credit Score](deep-dive/credit-score.md)
