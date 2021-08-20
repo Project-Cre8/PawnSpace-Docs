@@ -16,7 +16,7 @@ _
 
 The document introduces a decentralized NFT Collateralized Protocol that enables users to borrow and lend assets such as NFTs (ERC721 compliant). It also explores and describes the theory and technical aspects of the protocol / platform and its key features that make it distinct from existing products in the market.
 
-> **`Authors: Robin Roy, Tomohira Futura, Julian Cislo`**
+> **`Authors: Robin Roy, Tomohiro Furuta, Julian Cislo`**
 
 > **`Whitepaper Version 1.0 | August 2021`**
 >
