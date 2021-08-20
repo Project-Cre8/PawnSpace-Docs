@@ -2,15 +2,24 @@
 
 * [Official PawnSpace Documentation](README.md)
 
-## Outline
+## Introduction
 
 ---
 
-* [What the PawnSpace is](what-the-pawnspace-is.md)
+* [Introduction](Introduction.md)
+  * [Glossary](Glossary.md)
+  * [Key Features](Features.md)
+
+
+## Concepts
+
+---
+
+* [What is PawnSpace](what-the-pawnspace-is.md)
 * [How the PawnSpace works](how-the-pawnspace-works.md)
 * [Architecture](architecture.md)
 
-## Getting started
+## User Guide
 
 ---
 
@@ -20,7 +29,8 @@
 * [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
 * [Repay or Withdraw](repay.md)
 
-## Deep dive
+## Future Work
 
 * [NFT loan derivatives](deep-dive/nft-loan-derivatives.md)
+* [Decentralized Credit Score](deep-dive/credit-score.md)
 
