@@ -24,11 +24,11 @@
 ---
 
 * [Getting Started](getting-started.md)
- * [Configure a wallet](configure-a-wallet.md)
- * [Create an order \(borrower\)](create-an-order.md)
- * [Create an offer \(lender\)](create-an-offer.md)
- * [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
- * [Repay or Withdraw](repay.md)
+  * [Configure a wallet](configure-a-wallet.md)
+  * [Create an order \(borrower\)](create-an-order.md)
+  * [Create an offer \(lender\)](create-an-offer.md)
+  * [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
+  * [Repay or Withdraw](repay.md)
 
 ## Future Work
 
