@@ -15,19 +15,20 @@
 
 ---
 
-* [What is PawnSpace](what-the-pawnspace-is.md)
-* [How the PawnSpace works](how-the-pawnspace-works.md)
-* [Architecture](architecture.md)
+* [The PawnSpace Protocol](what-the-pawnspace-is.md)
+ * [How it works](how-the-pawnspace-works.md)
+ * [Architecture](architecture.md)
 
 ## User Guide
 
 ---
 
-* [Configure a wallet](configure-a-wallet.md)
-* [Create an order \(borrower\)](create-an-order.md)
-* [Create an offer \(lender\)](create-an-offer.md)
-* [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
-* [Repay or Withdraw](repay.md)
+* Getting Started 
+ * [Configure a wallet](configure-a-wallet.md)
+ * [Create an order \(borrower\)](create-an-order.md)
+ * [Create an offer \(lender\)](create-an-offer.md)
+ * [Accept an offer \(borrower\)](accept-an-offer-borrower.md)
+ * [Repay or Withdraw](repay.md)
 
 ## Future Work
 
