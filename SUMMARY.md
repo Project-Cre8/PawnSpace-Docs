@@ -23,7 +23,7 @@
 
 ---
 
-* [Getting Started] 
+* [Getting Started](getting-started.md)
  * [Configure a wallet](configure-a-wallet.md)
  * [Create an order \(borrower\)](create-an-order.md)
  * [Create an offer \(lender\)](create-an-offer.md)
