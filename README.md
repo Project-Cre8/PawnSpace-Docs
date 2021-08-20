@@ -13,6 +13,7 @@ _
 
 
 **Abstract**
+
 The document introduces a decentralized NFT Collateralized Protocol that enables users to borrow and lend assets such as NFTs (ERC721 compliant). It also explores and describes the theory and technical aspects of the protocol / platform and its key features that make it distinct from existing products in the market.
 
 > **`Authors: Robin Roy, Tomohira Futura, Julian Cislo`**
@@ -22,7 +23,9 @@ The document introduces a decentralized NFT Collateralized Protocol that enables
 > **`Last Updated: 20th August, 2021`**
 
 
-Website: https://pawnspace.io/. 
+Website: https://pawnspace.io/
+
 Twitter: https://twitter.com/pawnspace/
+
 Discord: https://discord.gg/ahhKUvZwNx
 
