@@ -1,4 +1,4 @@
-# Basic Definitions
+# Glossary
 
 The following definitions are used in the rest of the whitepaper/documentation to point out certain features pertaining to the PawnSpace protocol. 
 
