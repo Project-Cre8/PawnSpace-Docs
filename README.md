@@ -1,6 +1,6 @@
 ---
 description: >-
-  A Decentralized NFT Collateralized Lending Platform
+  A Decentralized NFT Collateralized Lending Platform - Turning your NFTs into Financial Opportunities
 ---
 
 # Official PawnSpace Documentation
