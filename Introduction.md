@@ -5,7 +5,7 @@ PawnSpace is a decentralized NFT-collateral lending platform, which primarily fu
 
 The valuation of an NFT however, may not need to be speculative all the time, consider financial-based NFTs, whose intrinsic value is determined by on-chain verifiable data (for example NFT LP tokens, Gaming Items, Virtual Lands & Metaverses, etc.).
 
-PawnSpace allows collateralization of any ERC-721 compliant NFT and any potential loans against it. We are driven by a “let the market decide” approach and intend to keep the platform open for any NFT to be listed on the platform. The “bid-and-ask” approach adopted by the platform conforms to this same notion.
+PawnSpace allows for the collateralization of any ERC-721 compliant NFT or multiple ERC-721 NFTs of the same collection in order to take out potential loans against them. We are driven by a “let the market decide” approach and intend to keep the platform open for any NFT to be listed on the platform. The “bid-and-ask” approach adopted by the platform conforms to this same notion.
 
 **Lock NFT -&gt; Place an Order -&gt; Get Offers -&gt; Approve Offer & Receive funds -&gt; Pay Back and Retrieve NFT/ Default and Lose NFT.**
 
