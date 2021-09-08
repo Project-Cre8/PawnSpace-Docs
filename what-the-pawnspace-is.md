@@ -6,4 +6,4 @@ NFTs are growning to be an alternative asset class and the introduction of NFT F
 
 PawnSpace is a completely decentralized protocol since its inception and was designed with decentralization in mind, with every action on the protocol taking place on-chain. This move encouraged to build on Polygon first for its cheap and fast transactions on-chain. 
 
-{% hint %} Governance of the protocol will also be progressively decentralized as we move forward. More information will be released for time proceeds and as the protocol evolves. {% endhint %}
+{% hint %} Governance of the protocol will also be progressively decentralized as we move forward. More information will be released as time proceeds and the protocol evolves. {% endhint %}
