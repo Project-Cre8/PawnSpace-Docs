@@ -29,5 +29,5 @@ The following definitions are used in the rest of the whitepaper/documentation t
 | ERC20 | A token standard on EVM-compatible chains for representing fungible tokens. |
 
 {% hint style="info" %}
-These definitions of these terms are in draft, and may change as the protocol evolves.
+The definitions of these terms are in draft, and may change as the protocol evolves.
 {% endhint %}
