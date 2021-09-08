@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/model-flow-4-.png)
 
-## **Borrowers Collateralize NFT (Create Order)**    
+## **Borrowers collateralize NFT (Create Order)**    
 
 The loan process consists of a multi-step procedure, beginning with the creation of a loan Order. A borrower who wants to take out a loan against their NFTs will first create a loan order and lock their NFTs within the PawnSpace contract. The user has the option to collateralize multiple NFTs within a single Order, provided they are issued from the same ERC721 contract. The borrower can then specify their preferred loan conditions for an Instant Loan and list it on the PawnSpace platform. 
 
@@ -12,9 +12,9 @@ Once an order has been created, prospective lenders will be able to submit pendi
 
 If the lender chooses to create an Offer, the lender will specify their preferred loan conditions (loan amount, suggested interest rate, and duration for the loan) based on what they think is the valuation of the NFT and the risk factor of the loan (optimal LTV).
 
-## **Borrowers Accept Offer a**
+## **Borrowers Accepts an Offer**
 
-The borrower will then be able to view and accept an offer. Only one offer can be accepted per order. Upon accepting an order, the loan period initiates, and the borrower receives the loan principal \(minus platform fees\). The borrower has until the specified deadline to pay back the principal and interest. 
+The borrower will then be able to view and accept an offer. Only one Offer can be accepted per Order. Upon accepting an order, the loan period initiates, and the borrower receives the loan principal \(minus platform fees\). The borrower has until the specified deadline to pay back the principal and interest. 
 
 ## **Repayment or Default of Loan**
 
