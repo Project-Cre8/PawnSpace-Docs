@@ -1,4 +1,4 @@
-# Exploring the different utilities of NFT collateralized loans and PawnSpace's features
+# Exploring the different utilities of PawnSpace Loans
 
 ### Example 1 - Instant Loan Conditions
 
