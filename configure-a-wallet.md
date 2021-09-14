@@ -2,6 +2,8 @@
 
 ### **GETTING STARTED** <a id="getting-started"></a>
 
+    This page guides the user in connecting Metamask to PawnSpace, and configuring their wallet to Mumbai Testnet.
+
 Go to **[https://app.pawnspace.io](https://app.pawnspace.io)**
 
 When you access PawnSpace, it offers to open MetaMask. Click the wallet account that you want to use.  
