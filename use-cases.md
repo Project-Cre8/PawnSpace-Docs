@@ -18,6 +18,14 @@ This ensure that Jacob minimizes his loss from the loan even though he loses his
 
 ### Example 3 - Credit Token
 
+Let's take similar scenarios from Example 1 & 2, Jacob takes out a loan against his collateralized NFT, and receives a _Debt Token_, while Belle provides him with liquidity and lends him the funds for mutually accepted the loan duration, and hence receives a _Credit Token_. Now Belle - the Lender - wants some instant access to liquidity, or she feels like the value of the NFT collateral will go down and wants to exit her lending position. Belle can always dispatch her rights to a loan or 'the obligation/right to get repayed', by transferring the ownership of the Debt Token to someone else, or by selling it in the open market, or even collateralizing it on PawnSpace (hence, creating a derivative). 
+
+Belle can potentially take the following approaches to gain access to liquidity: 
+- _**Sell Credit Token on a marketplace such as OpenSea:**_ Since the Credit Token has a clear valuation due to its financial nature, Belle can easily find a suitable valuation for her NFT and sell her "potential" credit to someone in return for instant access to funds. Someone else in the market, say Alice, decides to buy Belle's Credit Token and is now the owner of the loan, and any repayment done by Jacob at this point will be redirected to Alice's wallet. Alice also now has the right to claim collateral incase Jacob defaults on the loan.
+- _**Collateralize Credit Token on PawnSpace:**_ Again, since the Credit Token has a clear valuation due to its financial nature, Belle can list her Credit Token on PawnSpace for a loan. This NFT collateral would essentially become a derivative since its value is derived from the underlying collateral within the Credit Token itself. If Belle ever defaults on her derivative loan, the lender would be able to claim the original Credit Token. 
+  A scenario could arise where Jacob - _the borrower of the original loan_ - defaults on the original loan which could prompt Belle to also default on her loan. In this case, the lender (e.g. Alice), can now claim the original Credit Token (collateral of derivative loan), and then use the claimed (original) Credit Token to claim the underlying original NFT collateral that was defaulted on. If Belle does not default, but repays the derivative loan to Alice, then Belle can claim the original NFT collateral while also gaining some additional yield/profits from her borrowed funds from the derivative loan. 
+
+_Note: Users can get creative on how they interact with the Debt and Credit Tokens, and their derivatives. We also see the potential of Credit-Farming with these derivative loans, but however caution users that they understand the underlying collateral before lending or Borrowing against it._    
 
 ### Example 4 - Offers from lenders and NFT price discovery
 
