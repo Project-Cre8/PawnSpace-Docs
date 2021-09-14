@@ -1,10 +1,10 @@
 # Key Features of PawnSpace
 
-### - "Instant Loan" Conditions 
+### "Instant Loan" Conditions 
 
 A borrower may choose to provide **“Auto-Accept”** or **"Instant Loan"** conditions (loan amount, interest amount, and loan duration) to their Order upon its creation. Should a lender agree with these parameters, they **may choose to accept the Instant Loan conditions and initialize the loan immediately at the given parameters.** This **eliminates the necessity for borrowers to manually accept loans**, as well as for lenders to wait for their loan to be accepted, and hence **reduces competition with other lenders' Offers.**
 
-### - Debt & Credit Tokenization
+### Debt & Credit Tokenization
 
 A key characteristic of PawnSpace is that **both the Order and the Offer exists as ERC721 tokens (Debt & Credit tokens respectively)**, meaning borrowers and lenders can dispatch their assets while a loan is in progress. Orders are tokenized immediately (before an offer is accepted) enabling the borrower to sell their locked collateral. **Active Orders represent an obligation to repay a debt (hence, Debt Token)**, which can also be transferred. Lending offers become tokenized at the time they are accepted by a borrower or on Instant Loan. This allows the lender to transfer their **rights to the debt and the rights to receive repayment of the loan.** 
 
