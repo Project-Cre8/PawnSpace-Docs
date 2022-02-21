@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Official PawnSpace Documentation](README.md)
+* [Official PawnSpace Whitepaper](README.md)
 
 ## Introduction
 
