@@ -9,7 +9,7 @@ PawnSpace is a decentralized NFT collateralized lending platform, that allows yo
 _**"Don't let your NFTs stay idle in your wallet anymore. Collateralize them, and turn your NFTs into financial opportunities! 'Cause, why not? :)"**
 _
 
-![](.gitbook/assets/banner v2.png)
+![](./gitbook/assets/banner v2.png)
 
 
 
