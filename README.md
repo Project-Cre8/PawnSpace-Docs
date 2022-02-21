@@ -3,7 +3,7 @@ description: >-
   A Decentralized NFT Collateralized Lending Platform - Turning your NFTs into Financial Opportunities
 ---
 
-# Official PawnSpace Documentation
+# Official PawnSpace Whitepaper
 
 PawnSpace is a decentralized NFT collateralized lending platform, that allows you to convert your NFTs into financial opportunities. The protocol is currently being built on Polygon with the alpha now LIVE on Mumbai Testnet.
 _**"Don't let your NFTs stay idle in your wallet anymore. Collateralize them, and turn your NFTs into financial opportunities! 'Cause, why not? :)"**
