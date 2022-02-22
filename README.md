@@ -10,7 +10,7 @@ _**"Don't let your NFTs stay idle in your wallet anymore. Collateralize them, an
 _
 
 
-![](./.gitbook/assets/banner v2.png)
+![](.gitbook/assets/banner v2.png)
 
 
 **Abstract**
