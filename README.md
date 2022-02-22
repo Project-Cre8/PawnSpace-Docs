@@ -10,7 +10,7 @@ _**"Don't let your NFTs stay idle in your wallet anymore. Collateralize them, an
 _
 
 
-![](.gitbook/assets/banner v2.png)
+![](https://github.com/Project-Cre8/PawnSpace-Docs/blob/84084d99caacd86107e8dfaab60ce7ffbecd8641/.gitbook/assets/banner%20v2.png)
 
 
 **Abstract**
